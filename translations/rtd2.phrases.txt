@@ -11,6 +11,7 @@
 		"chi"				"输入 {1}rtd{2} 抽取随机效果."
 		"ru"				"Напишите {1}rtd{2} чтобы попытать удачу с случайными эффектами."
 		"pt"				"Digite {1}rtd{2} para sortear efeitos aleatórios."
+		"es"				"Escriba {1}rtd{2} para timbear por un efecto al azar."
 	}
 
 	"RTD2_Not_In_Round"
@@ -22,6 +23,7 @@
 		"chi"				"请等待游戏开始."
 		"ru"				"Ожидание начала раунда."
 		"pt"				"Espere a rodada começar."
+		"es"				"Espere a que comienze la ronda."
 	}
 
 	"RTD2_Rolled_Perk_Roller"
@@ -34,6 +36,7 @@
 		"chi"			"抽得 {1}{2}{3}."
 		"ru"			"Получил {1}{2}{3}."
 		"pt"			"Você sorteou {1}{2}{3}."
+		"es"			"Consiguió {1}{2}{3}."
 	}
 
 	"RTD2_Rolled_Perk_Roller_Time"
@@ -46,6 +49,7 @@
 		"chi"			"抽得 {1}{2}{3} 持续 {4}{5}{6} 秒."
 		"ru"			"Получил {1}{2}{3} на {4}{5}{6} секунд(ы)."
 		"pt"			"Você sorteou {1}{2}{3} por {4}{5}{6} segundo(s)."
+		"es"			"Consiguió {1}{2}{3} por {4}{5}{6} segundo(s)."
 	}
 
 	"RTD2_Rolled_Perk_Others"
@@ -58,6 +62,7 @@
 		"chi"			"{1}{2}{3} 抽得 {4}{5}{6}."
 		"ru"			"{1}{2}{3} получил {4}{5}{6}."
 		"pt"			"{1}{2}{3} sorteou {4}{5}{6}."
+		"es"			"{1}{2}{3} tiene {4}{5}{6}."
 	}
 
 	"RTD2_Rolled_Perk_Others_Time"
@@ -70,6 +75,7 @@
 		"chi"			"{1}{2}{3} 抽得 {4}{5}{6} 持续 {7}{8}{9} 秒."
 		"ru"			"{1}{2}{3} получил {4}{5}{6} на {7}{8}{9} секунд(ы)."
 		"pt"			"{1}{2}{3} sorteou {4}{5}{6} por {7}{8}{9} segundo(s)."
+		"es"			"{1}{2}{3} consiguió {4}{5}{6} por {7}{8}{9} segundo(s)."
 	}
 
 	///////////////////////////
@@ -86,6 +92,7 @@
 		"chi"			"{1} 玩家抽得 {2}{3}{4}."
 		"ru"			"{1} игроки получили {2}{3}{4}."
 		"pt"			"{1} jogadores sortearam {2}{3}{4}."
+		"es"			"{1} los jugadores tienen {2}{3}{4}."
 	}
 
 	"RTD2_Rolled_Perk_Multi_Time"
@@ -98,6 +105,7 @@
 		"chi"			"{1} 玩家抽得 {2}{3}{4} 持续 {5}{6}{7} 秒."
 		"ru"			"{1} игроки получили {2}{3}{4} на {5}{6}{7} секунд(ы)."
 		"pt"			"{1} jogadores sortearam {2}{3}{4} por {5}{6}{7} segundo(s)."
+		"es"			"{1} los jugadores tienen {2}{3}{4} por {5}{6}{7} segundo(s)."
 	}
 
 	/////////////////////////
@@ -114,6 +122,7 @@
 		"chi"			"活着的玩家才能使用 RTD."
 		"ru"			"Вы должны быть живы, чтобы использовать RTD."
 		"pt"			"Você deve estar vivo para poder usar o RTD."
+		"es"			"Debes de estar vivo para usar RTD." 
 	}
 
 	//[RTD] You are already using RTD.
@@ -126,6 +135,7 @@
 		"chi"			"你已经使用 RTD 了."
 		"ru"			"Вы уже используете RTD."
 		"pt"			"Você já está usando o RTD."
+		"es"			"Ya estas usando RTD."
 	}
 
 	//[RTD] You must wait {Color3}{TimeLeft}{ColorNormal} second(s).
@@ -139,6 +149,7 @@
 		"chi"			"你必须等待 {1}{2}{3} 秒."
 		"ru"			"Вы должны подождать {1}{2}{3} секунд(ы)."
 		"pt"			"Você deve esperar {1}{2}{3} segundo(s)."
+		"es"			"Debes esperar {1}{2}{3} segundo(s)."
 	}
 
 	//[RTD] Too many players are using RTD.
@@ -151,6 +162,7 @@
 		"chi"			"现在有太多的玩家正在 RTD."
 		"ru"			"Слишком много игроков уже используют RTD."
 		"pt"			"Há muitos jogadores usando o RTD."
+		"es"			"Ya hay muchos jugadores usando RTD."
 	}
 
 	//[RTD] Too many players on your team are using RTD.
@@ -163,6 +175,7 @@
 		"chi"			"现在你的队伍中有太多的玩家正在 RTD."
 		"ru"			"Слишком много игроков в вашей команде уже используют RTD."
 		"pt"			"Há muitos jogadores na sua equipe usando o RTD."
+		"es"			"Ya hay muchos jugadores en tu equipo usando RTD."
 	}
 
 	//[RTD] Rolling is disabled at the moment.
@@ -175,6 +188,7 @@
 		"chi"			"抽奖此时已禁用."
 		"ru"			"RTD отключен."
 		"pt"			"O RTD está desativado no momento."
+		"es"			"Timbear ésta desabilitado por el momento."
 	}
 
 	//[RTD] You do not have access to RTD.
@@ -187,6 +201,7 @@
 		"chi"			"你没有 RTD 的权限."
 		"ru"			"У вас нет доступа к RTD."
 		"pt"			"Você não tem permissão para usar o RTD."
+		"es"			"No tienes acceso a RTD."
 	}
 
 	//[RTD] Your team cannot use RTD.
@@ -199,6 +214,7 @@
 		"chi"			"你的队伍不能 RTD."
 		"ru"			"Ваша команда не может использовать RTD."
 		"pt"			"Sua equipe não pode usar o RTD."
+		"es"			"Tu equipo no puede usar RTD."
 	}
 
 	/////////////////////////////////
@@ -215,6 +231,7 @@
 		"chi"			"你的特殊效果已过期."
 		"ru"			"Дейстие вашего перка прошло."
 		"pt"			"O efeito do seu RTD acabou."
+		"es"			"Tu efecto se a gastado."
 	}
 
 	//[RTD] {RollerTeamColor}{RollerName}{change color to normal}'s perk has worn off.
@@ -228,6 +245,7 @@
 		"chi"			"{1}{2}{3} 的特殊效果已过期."
 		"ru"			"Дейстие перка игрока {1}{2}{3} прошло."
 		"pt"			"O efeito do RTD de {1}{2}{3} acabou."
+		"es"			"El efecto {1}{2}{3} se ha gastado."
 	}
 
 	//[RTD] You have died during your roll.
@@ -240,6 +258,7 @@
 		"chi"			"你在特殊效果作用时死亡."
 		"ru"			"Вы умерли во время RTD."
 		"pt"			"Você morreu enquanto usava o RTD."
+		"es"			"Has muerto durante/o en el turno"
 	}
 
 	//[RTD] {RollerTeamColor}{RollerName}{change color to normal} has died during their roll.
@@ -253,6 +272,7 @@
 		"chi"			"{1}{2}{3} 在特殊效果作用时死亡."
 		"ru"			"{1}{2}{3} умер во время его действия RTD."
 		"pt"			"{1}{2}{3} morreu enquanto usava o RTD."
+		"es"			"{1}{2}{3} ha muerto durante su turno"
 	}
 
 	//[RTD] You have changed class during your roll.
